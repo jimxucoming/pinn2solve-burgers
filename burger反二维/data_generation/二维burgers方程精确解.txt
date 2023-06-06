@@ -1,0 +1,4 @@
+利用隐式差分格式求解二维burgers方程，得到的精确解，代码由matlab编译
+matlab求解二维burgers方程
+
+reference_solution 包括t,x,y,uref,vref五个变量
