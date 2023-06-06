@@ -1,0 +1,1 @@
+最佳模型名称：model_nf1000_ns600000_MLPRes_2x4x20_shuffle0_seed1_adam_lr0.001_loss_mse.pt
