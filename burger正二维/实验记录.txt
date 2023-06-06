@@ -1,0 +1,78 @@
+2023-03-19 16:53:22,671  54 MainThread INFO           root:239 - train: Epoch: 99998, Loss: 1.776e-01, Loss_F: 1.711e-01 (8.321e-02 + 8.791e-02), Loss_S: 6.496e-03
+2023-03-19 16:53:22,721  54 MainThread INFO           root:239 - train: Epoch: 99999, Loss: 1.811e-01, Loss_F: 1.746e-01 (8.620e-02 + 8.844e-02), Loss_S: 6.444e-03
+2023-03-19 16:53:22,722  54 MainThread INFO           root:154 - main: Training time: 5367.7574s
+2023-03-19 16:53:22,722  54 MainThread INFO           root:260 - save: Saving model to models\model_nf100000_ns100_MLPRes_2x2x20_shuffle0_seed1_adam_lr0.01_loss_mse.pt
+2023-03-19 16:53:22,739  54 MainThread INFO           root:156 - main: Finished training.
+100000，100
+
+
+
+
+2023-03-19 18:25:59,655  21 MainThread INFO           root:247 - train: Epoch: 99997, Loss: 1.153e-01, Loss_F: 1.111e-01 (5.736e-02 + 5.376e-02), Loss_S: 4.144e-03
+2023-03-19 18:25:59,705  21 MainThread INFO           root:247 - train: Epoch: 99998, Loss: 1.152e-01, Loss_F: 1.110e-01 (5.712e-02 + 5.387e-02), Loss_S: 4.240e-03
+2023-03-19 18:25:59,754  21 MainThread INFO           root:247 - train: Epoch: 99999, Loss: 1.153e-01, Loss_F: 1.112e-01 (5.696e-02 + 5.421e-02), Loss_S: 4.132e-03
+2023-03-19 18:25:59,754  21 MainThread INFO           root:163 - main: Training time: 5143.9198s
+2023-03-19 18:25:59,754  21 MainThread INFO           root:268 - save: Saving model to models\model_nf100000_ns10000_MLPRes_2x2x20_shuffle0_seed1_adam_lr0.01_loss_mse.pth
+2023-03-19 18:25:59,771  21 MainThread INFO           root:165 - main: Finished training.
+100000 10000
+
+2023-03-19 19:08:00,388  61 MainThread INFO           root:251 - train: Epoch: 19996, Loss: 3.060e-01, Loss_F: 2.928e-01 (1.675e-01 + 1.253e-01), Loss_S: 1.322e-02
+2023-03-19 19:08:00,513  61 MainThread INFO           root:251 - train: Epoch: 19997, Loss: 3.087e-01, Loss_F: 2.949e-01 (1.560e-01 + 1.388e-01), Loss_S: 1.387e-02
+2023-03-19 19:08:00,635  61 MainThread INFO           root:251 - train: Epoch: 19998, Loss: 2.980e-01, Loss_F: 2.862e-01 (1.489e-01 + 1.373e-01), Loss_S: 1.181e-02
+2023-03-19 19:08:00,760  61 MainThread INFO           root:251 - train: Epoch: 19999, Loss: 2.970e-01, Loss_F: 2.848e-01 (1.608e-01 + 1.240e-01), Loss_S: 1.211e-02
+2023-03-19 19:08:00,761  61 MainThread INFO           root:163 - main: Training time: 2485.0843s
+2023-03-19 19:08:00,761  61 MainThread INFO           root:272 - save: Saving model to models\model_nf100000_ns10000_MLPRes_2x4x20_shuffle0_seed1_adam_lr0.01_loss_mse.pth
+2023-03-19 19:08:00,767  61 MainThread INFO           root:165 - main: Finished training.
+4层 20  10000，1000
+
+
+2023-03-19 20:40:29,650  10 MainThread INFO           root:251 - train: Epoch: 19996, Loss: 2.089e-01, Loss_F: 1.990e-01 (9.189e-02 + 1.072e-01), Loss_S: 9.809e-03
+2023-03-19 20:40:29,841  10 MainThread INFO           root:251 - train: Epoch: 19997, Loss: 2.088e-01, Loss_F: 1.990e-01 (9.190e-02 + 1.071e-01), Loss_S: 9.809e-03
+2023-03-19 20:40:30,034  10 MainThread INFO           root:251 - train: Epoch: 19998, Loss: 2.088e-01, Loss_F: 1.990e-01 (9.188e-02 + 1.071e-01), Loss_S: 9.807e-03
+2023-03-19 20:40:30,224  10 MainThread INFO           root:251 - train: Epoch: 19999, Loss: 2.088e-01, Loss_F: 1.990e-01 (9.187e-02 + 1.071e-01), Loss_S: 9.807e-03
+2023-03-19 20:40:30,225  10 MainThread INFO           root:163 - main: Training time: 3225.0360s
+2023-03-19 20:40:30,225  10 MainThread INFO           root:272 - save: Saving model to models\model_nf100000_ns10000_MLPRes_2x4x20_shuffle0_seed1_adam_lr0.0001_loss_mse.pth
+2023-03-19 20:40:30,233  10 MainThread INFO           root:165 - main: Finished training.
+100000 10000 0.0001
+
+
+
+2023-03-19 23:00:38,761  14 MainThread INFO           root:251 - train: Epoch: 49611, Loss: 8.199e-02, Loss_F: 7.972e-02 (4.197e-02 + 3.776e-02), Loss_S: 2.262e-03
+2023-03-19 23:00:38,884  14 MainThread INFO           root:251 - train: Epoch: 49612, Loss: 8.045e-02, Loss_F: 7.836e-02 (4.131e-02 + 3.704e-02), Loss_S: 2.096e-03
+2023-03-19 23:00:39,010  14 MainThread INFO           root:251 - train: Epoch: 49613, Loss: 8.377e-02, Loss_F: 8.150e-02 (4.210e-02 + 3.940e-02), Loss_S: 2.270e-03
+2023-03-19 23:00:39,133  14 MainThread INFO           root:251 - train: Epoch: 49614, Loss: 8.098e-02, Loss_F: 7.888e-02 (4.129e-02 + 3.759e-02), Loss_S: 2.095e-03
+2023-03-19 23:00:39,256  14 MainThread INFO           root:251 - train: Epoch: 49615, Loss: 8.379e-02, Loss_F: 8.152e-02 (4.199e-02 + 3.953e-02), Loss_S: 2.270e-03
+2023-03-19 23:00:39,379  14 MainThread INFO           root:251 - train: Epoch: 49616, Loss: 8.036e-02, Loss_F: 7.826e-02 (4.113e-02 + 3.713e-02), Loss_S: 2.099e-03
+0.001
+
+
+2023-03-20 18:35:25,196  10 MainThread INFO           root:253 - train: Epoch: 99993, Loss: 1.586e-01, Loss_F: 1.524e-01 (7.624e-02 + 7.616e-02), Loss_S: 6.160e-03
+2023-03-20 18:35:25,476  10 MainThread INFO           root:253 - train: Epoch: 99994, Loss: 1.585e-01, Loss_F: 1.524e-01 (7.621e-02 + 7.615e-02), Loss_S: 6.154e-03
+2023-03-20 18:35:25,750  10 MainThread INFO           root:253 - train: Epoch: 99995, Loss: 1.586e-01, Loss_F: 1.524e-01 (7.626e-02 + 7.615e-02), Loss_S: 6.148e-03
+2023-03-20 18:35:26,017  10 MainThread INFO           root:253 - train: Epoch: 99996, Loss: 1.586e-01, Loss_F: 1.525e-01 (7.633e-02 + 7.616e-02), Loss_S: 6.164e-03
+2023-03-20 18:35:26,296  10 MainThread INFO           root:253 - train: Epoch: 99997, Loss: 1.587e-01, Loss_F: 1.526e-01 (7.646e-02 + 7.615e-02), Loss_S: 6.140e-03
+2023-03-20 18:35:26,572  10 MainThread INFO           root:253 - train: Epoch: 99998, Loss: 1.588e-01, Loss_F: 1.526e-01 (7.647e-02 + 7.616e-02), Loss_S: 6.170e-03
+2023-03-20 18:35:26,843  10 MainThread INFO           root:253 - train: Epoch: 99999, Loss: 1.588e-01, Loss_F: 1.527e-01 (7.651e-02 + 7.616e-02), Loss_S: 6.137e-03
+2023-03-20 18:35:26,845  10 MainThread INFO           root:163 - main: Training time: 21018.7765s
+2023-03-20 18:35:26,854  10 MainThread INFO           root:274 - save: Saving model to models\model_nf100000_ns10000_MLPRes_2x5x20_shuffle0_seed1_adam_lr8e-05_loss_mse.pth
+2023-03-20 18:35:26,921  10 MainThread INFO           root:165 - main: Finished training.
+0.0008 5层20
+
+
+
+2023-03-20 22:12:29,464  16 MainThread INFO           root:253 - train: Epoch: 79996, Loss: 1.341e-01, Loss_F: 1.292e-01 (6.650e-02 + 6.274e-02), Loss_S: 4.882e-03
+2023-03-20 22:12:29,588  16 MainThread INFO           root:253 - train: Epoch: 79997, Loss: 1.341e-01, Loss_F: 1.292e-01 (6.648e-02 + 6.276e-02), Loss_S: 4.878e-03
+2023-03-20 22:12:29,712  16 MainThread INFO           root:253 - train: Epoch: 79998, Loss: 1.341e-01, Loss_F: 1.292e-01 (6.649e-02 + 6.275e-02), Loss_S: 4.881e-03
+2023-03-20 22:12:29,838  16 MainThread INFO           root:253 - train: Epoch: 79999, Loss: 1.341e-01, Loss_F: 1.292e-01 (6.648e-02 + 6.276e-02), Loss_S: 4.877e-03
+2023-03-20 22:12:29,838  16 MainThread INFO           root:168 - main: Training time: 12791.5297s
+2023-03-20 22:12:29,838  16 MainThread INFO           root:274 - save: Saving model to models\model_nf100000_ns10000_MLPRes_2x4x20_shuffle0_seed1_adam_lr0.0001_loss_mse.pth
+2023-03-20 22:12:29,853  16 MainThread INFO           root:170 - main: Finished training.
+4层 0.0001 80000
+
+
+
+
+
+4层 0.001 70000  即可
+
+

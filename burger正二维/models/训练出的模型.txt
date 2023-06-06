@@ -1,0 +1,1 @@
+最优模型为：model_nf100000_ns10000_MLPRes_2x4x20_shuffle0_seed1_adam_lr0.001_loss_mse.pt

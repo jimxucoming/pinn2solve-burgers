@@ -1,0 +1,5 @@
+neural_net 是设置网络结构 以及loss 函数等各类网络函数
+
+get_ponts 是获得精确解实际数据的函数文件
+
+util是log输出文件等必要函数
